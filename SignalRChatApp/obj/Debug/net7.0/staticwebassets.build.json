@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "e2W3VXEppST7w3YsMJxNsnPeUe0n4Re1U7cp67PPZKc=",
+  "Source": "SignalRChatApp",
+  "BasePath": "_content/SignalRChatApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRChatApp/wwwroot",
+      "Source": "SignalRChatApp",
+      "ContentRoot": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/wwwroot/",
+      "BasePath": "_content/SignalRChatApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/obj/Debug/net7.0/scopedcss/bundle/SignalRChatApp.styles.css",
+      "SourceId": "SignalRChatApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/obj/Debug/net7.0/scopedcss/bundle/",
+      "BasePath": "_content/SignalRChatApp",
+      "RelativePath": "SignalRChatApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/obj/Debug/net7.0/scopedcss/bundle/SignalRChatApp.styles.css"
+    },
+    {
+      "Identity": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/obj/Debug/net7.0/scopedcss/projectbundle/SignalRChatApp.bundle.scp.css",
+      "SourceId": "SignalRChatApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "BasePath": "_content/SignalRChatApp",
+      "RelativePath": "SignalRChatApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/obj/Debug/net7.0/scopedcss/projectbundle/SignalRChatApp.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/wwwroot/favicon.ico",
+      "SourceId": "SignalRChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/wwwroot/",
+      "BasePath": "_content/SignalRChatApp",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}

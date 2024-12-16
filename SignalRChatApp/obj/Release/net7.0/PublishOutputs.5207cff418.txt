@@ -1,0 +1,13 @@
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/SignalRChatApp
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/appsettings.Development.json
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/appsettings.json
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/SignalRChatApp.dll
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/SignalRChatApp.deps.json
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/SignalRChatApp.runtimeconfig.json
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/SignalRChatApp.pdb
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/System.Data.SqlClient.dll
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/runtimes/win-arm64/native/sni.dll
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/runtimes/win-x64/native/sni.dll
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/runtimes/win-x86/native/sni.dll
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/publish/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll

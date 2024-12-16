@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/obj/Release/net7.0/scopedcss/projectbundle/SignalRChatApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/SignalRChatApp.bundle.scp.css"
+    },
+    {
+      "Id": "/home/musiliandrew/Desktop/project/signal-r-chat-app/SignalRChatApp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.SignalRChatApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.build.SignalRChatApp.props",
+      "PackagePath": "build\\SignalRChatApp.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.SignalRChatApp.props",
+      "PackagePath": "buildMultiTargeting\\SignalRChatApp.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.SignalRChatApp.props",
+      "PackagePath": "buildTransitive\\SignalRChatApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
